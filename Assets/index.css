@@ -136,3 +136,45 @@ For instance, if place left, top or the four regions say, left;10px it would mov
 .blackbtn:hover {
 color: orange;
 }
+
+/* .sect3{
+    display: flex;
+    justify-content: center;
+    background-color: #ddd;
+}
+
+.main3 {
+    width: 1000px;
+}
+
+.gradientline {
+    border: none;
+    background-image: linear-gradient(orange, yellow,rgb(33, 63, 4),rgb(1, 1, 22));
+    height: 6px;
+    width: 150px;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+
+.Our-top-movers {
+    font-size: 40px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.top-movers-row {
+    margin: 40px 0 20px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.top-movers-element {
+    width: 300px;
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+.movers-img {
+    width: 100%;
+} */

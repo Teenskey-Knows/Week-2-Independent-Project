@@ -3,6 +3,8 @@
     font-style:#FAFF00 ;
 }
 
+
+
 .top {
     background-image: url(./Images/moving\ 1.png);
     width: 100%;
@@ -27,6 +29,36 @@ For instance, if place left, top or the four regions say, left;10px it would mov
 
 }
 
-.nav_buttons {
+.nav-btn {
+    position: relative;
+    width: 900px;
+    top: 70px;
+    left: 500px;
+    align-items:center ;
+    display: flex;
+    justify-content: space-around;
+    /* Justify content defines the alignment along the main axis.By default it is flex-start which places items at the beginning of the main axis.
+    Flex-end-causes items to be placed at the end of the main axis-furthest left.
+    Center-content is placed at the center of the main axis.
+    Space-between= the space is evenly split and added among the flex items.
+    Space-around- similar to space between but there is space at both the beginning and end of the main axis. But the space at the beginning and end are half of the space in between the content.
     
+    Space-evenly= space is evenly distributed through the main axis*/
+}
+
+.button {color: white;
+
+}
+.button1 { color: black;
+    background-color: #FAFF00;
+    padding: 2px 10px;
+    border: none;
+    border-radius:2px ;
+}
+
+.button2 {
+    background-color: black;
+    color: yellow;
+    padding: 2px 5px;
+    border: none;
 }

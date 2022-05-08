@@ -179,7 +179,8 @@ color: orange;
     width: 100%;
 } */
 
-.larger-container {
-    display: flex;
-    flex-direction: row
+.gradientline {
+    background-image: linear-gradient(orange,rgb(235, 143, 57),rgb(139, 146, 45),rgb(3, 11, 46),rgb(9, 1, 22));
+    height: 4px;
+    width: 250px;
 }

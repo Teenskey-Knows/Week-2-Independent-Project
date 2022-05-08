@@ -239,3 +239,19 @@ For instance, if place left, top or the four regions say, left;10px it would mov
 .span-yellow {color: orange;
 
 }
+
+.line{
+    background-image: linear-gradient(rgb(102, 92, 0),yellow);
+    height: 1px;
+    width: 80%;
+    opacity: 50%;
+}
+
+.iconpad1 {
+    color: white;
+    
+}
+.iconpad1:hover {
+    color: orange;
+    transition: color 0.7s;
+}

@@ -179,3 +179,7 @@ color: orange;
     width: 100%;
 } */
 
+.larger-container {
+    display: flex;
+    flex-direction: row
+}

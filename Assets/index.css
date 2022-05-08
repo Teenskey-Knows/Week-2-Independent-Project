@@ -95,7 +95,7 @@ For instance, if place left, top or the four regions say, left;10px it would mov
     margin-top:150px;
     border: none;
     width: 150px;
-    height: 100px;
+    height: 4px;
     background-image:linear-gradient(rgb(247, 198, 108),rgb(177, 166, 23),rgb(70, 66, 11),rgb(13, 13, 46));
 }
  
@@ -116,4 +116,23 @@ For instance, if place left, top or the four regions say, left;10px it would mov
 .bodypar {
     position: relative;
     top: 60px;
+}
+
+.learn-more_nav {
+    margin-top: 50px;
+}
+
+.blackbtn {
+    text-decoration: none;
+    border: none;
+    background-color: black;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    padding-right: 25px;
+    color: yellow;
+    
+}
+
+.blackbtn:hover {
+color: orange;
 }

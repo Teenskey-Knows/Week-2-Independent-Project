@@ -265,15 +265,18 @@ For instance, if place left, top or the four regions say, left;10px it would mov
   position: relative;
   top: 150px;
   left: 100px;
+  display: flex;
+  margin: 0px 30px 0px 50px;
 }
 .iconpad1 {
   color: white;
+  
 }
 .iconpad1:hover {
   color: orange;
   transition: color 0.7s;
 }
-.h4 {
+/* .h4 {
   color: white;
   text-decoration: none;
   margin-bottom: 7px;
@@ -303,10 +306,29 @@ For instance, if place left, top or the four regions say, left;10px it would mov
 .h5 {
   color: white;
   margin-top: 5px;
+  
 }
 .deco1 { border: none;
     margin: 5px 0px 5px 0px;
     text-decoration: none;
     color: rgb(116, 111, 111);
 
+} */
+.columnhead {
+    color: white;
+}
+.columndiv {
+    position: relative;
+    left: 300px;
+    top: 95px;
+}
+
+.columnhead1 {
+    color: white;
+}
+.columndiv1 {
+    position: relative;
+    left: 600px;
+    top: 0px;
+    margin-top: 0px;
 }

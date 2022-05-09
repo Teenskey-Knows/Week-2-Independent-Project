@@ -314,7 +314,7 @@ For instance, if place left, top or the four regions say, left;10px it would mov
     color: rgb(116, 111, 111);
 
 } */
-.columnhead {
+/* .columnhead {
     color: white;
 }
 .columndiv {
@@ -338,7 +338,40 @@ For instance, if place left, top or the four regions say, left;10px it would mov
 }
 .columndiv2 {
     position: relative;
-    left: 1200px;
+    left: 800px;
     top: 0px;
-    margin-top: 0px;
+    margin-top:px;
+} */
+
+.themain {
+    display: flex;
+    flex-direction: row;
+
+}
+.columndiv {margin: 90px 100px 150px 300px;
+
+}
+.columndiv1 { margin: 90px 100px 150px 300px;
+
+    
+    
+}
+.columndiv1 > p > a{
+    text-decoration: none;
+
+}
+
+.columndiv2 { margin: 90px 100px 150px 300px;
+
+    
+}
+
+.columnhead {
+    color: white;
+
+}
+
+.decor {text-decoration: none;
+    color: rgb(158, 152, 152);
+
 }

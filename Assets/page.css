@@ -1,0 +1,37 @@
+.section1 {
+  background-image: linear-gradient(
+    60deg,
+    rgb(44, 4, 4),
+    rgb(48, 41, 43),
+    rgb(24, 4, 4),
+    rgba(41, 7, 7, 0.856)
+  );
+  height: 30vh;
+  width: 100%;
+}
+.navfloat {
+  padding: 20px;
+  margin-left: 700px;
+}
+
+.firstnavbar {
+  text-decoration: none;
+  color: white;
+  margin: 0px 20px 0px;
+}
+.firstnavbar:hover {
+  color: orange;
+  transition: 0.2s;
+}
+.work {
+  background-color: orange;
+  padding: 10px 20px 10px 10px;
+  border-top-right-radius: 5px;
+}
+
+.separatingline {
+  background-image: linear-gradient(yellow, orange, rgb(212, 103, 40));
+  height: 2px;
+  width: 100%;
+  opacity: 40%;
+}

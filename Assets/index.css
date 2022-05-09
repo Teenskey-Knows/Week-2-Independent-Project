@@ -332,3 +332,13 @@ For instance, if place left, top or the four regions say, left;10px it would mov
     top: 0px;
     margin-top: 0px;
 }
+
+.columnhead2 {
+    color: white;
+}
+.columndiv2 {
+    position: relative;
+    left: 1200px;
+    top: 0px;
+    margin-top: 0px;
+}

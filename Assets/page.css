@@ -65,7 +65,7 @@
 
 .section2 {
   background-color: rgb(209, 216, 223);
-  height: 150rem;
+  height: 116rem;
   width: 100%;
 }
 
@@ -179,12 +179,11 @@ ul.icons li:last-child {
 }
 /* Similar section listing */
 .new {
-  background-image: linear-gradient(black
-  red yellow );
+  background-image: linear-gradient(black red yellow);
   height: 1px;
   width: 10px;
 }
-.simlistinghead{
+.simlistinghead {
   margin-left: 4rem;
   margin-bottom: 2rem;
   margin-top: 3rem;
@@ -195,24 +194,40 @@ ul.icons li:last-child {
   flex-direction: row;
 }
 
-.similar-listing-image-size{
+.similar-listing-image-size {
   height: 10rem;
-  width: 10rem;
+  width: 12rem;
   margin-left: 4rem;
 }
 
 .image-details-size-bac {
   background-color: white;
-  height: 10rem;
-  width:10rem ;
+  height: 3.8rem;
+  width: 12rem;
+  margin-top: 0px;
   margin-left: 4rem;
+  border-radius: 0.6rem;
 }
-.icon-tray-listing{
+.title-listing {
+  display: flex;
+  margin-left: 1rem;
+}
+.icon-tray-listing {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
   align-content: center;
   list-style: none;
-  margin-top: 3rem;
+  margin-top: 1rem;
+  border-top: black solid 1px;
+}
+.listing-list {
+  justify-content: center;
+}
+ul.icon-tray-listing li {
+  border-right: solid black 1px;
+}
+ul.icon-tray-listing li:last-child {
+  border-right: none;
 }

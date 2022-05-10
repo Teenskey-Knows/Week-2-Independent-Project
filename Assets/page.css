@@ -35,3 +35,56 @@
   width: 100%;
   opacity: 40%;
 }
+
+.modernhouse {
+  margin: 5px 0px 0px 80px;
+  color: white;
+}
+.span {
+  color: rgb(204, 198, 198);
+}
+.money {
+  display: flex;
+  flex-direction: row;
+  margin-left: 1000px;
+}
+
+.cash {
+  color: white;
+}
+
+.span2 {
+  color: rgb(204, 198, 198);
+}
+
+.section2 {
+  background-color: rgb(209, 216, 223);
+  height: 100vh;
+  width: 100%;
+}
+
+/* .image1 {
+  margin-top: 20px; */
+
+.image-1 {
+  width: 450px;
+  height: 400px;
+  margin-top: 80px;
+  margin-left: 70px;
+  margin-right: 50px;
+  
+}
+
+.smaller {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    margin-left: 70px;
+    
+
+}
+
+.s-size {
+    height: 50px;
+    width: 50px;
+}

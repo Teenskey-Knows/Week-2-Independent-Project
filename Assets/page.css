@@ -65,7 +65,7 @@
 
 .section2 {
   background-color: rgb(209, 216, 223);
-  height: 100rem;
+  height: 150rem;
   width: 100%;
 }
 
@@ -169,10 +169,50 @@ ul.icons li:last-child {
   margin: 0.9rem;
   justify-content: space-around;
   margin-bottom: 2rem;
+  border-top: 1px solid #000;
 }
 .fa-solid.fa-circle-check {
   color: orange;
 }
 .list1 {
   margin-bottom: 0.9rem;
+}
+/* Similar section listing */
+.new {
+  background-image: linear-gradient(black
+  red yellow );
+  height: 1px;
+  width: 10px;
+}
+.simlistinghead{
+  margin-left: 4rem;
+  margin-bottom: 2rem;
+  margin-top: 3rem;
+}
+/* second-last section */
+.similar-listing-images {
+  display: flex;
+  flex-direction: row;
+}
+
+.similar-listing-image-size{
+  height: 10rem;
+  width: 10rem;
+  margin-left: 4rem;
+}
+
+.image-details-size-bac {
+  background-color: white;
+  height: 10rem;
+  width:10rem ;
+  margin-left: 4rem;
+}
+.icon-tray-listing{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: center;
+  list-style: none;
+  margin-top: 3rem;
 }

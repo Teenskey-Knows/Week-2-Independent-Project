@@ -231,3 +231,19 @@ ul.icon-tray-listing li {
 ul.icon-tray-listing li:last-child {
   border-right: none;
 }
+
+/* final section */
+.final-section{
+  background-image: linear-gradient(60deg,
+  rgb(44, 4, 4),
+  rgb(48, 41, 43),
+  rgb(24, 4, 4),
+  rgba(41, 7, 7, 0.856));
+  height: 10rem;
+  width:100%;
+  display: flex;
+  flex-direction: column;
+
+}
+
+

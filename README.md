@@ -2,11 +2,11 @@
 ## Quick Movers Business Project Website
 ### By Daniel Okebiro Obare
 ## Table of Content
-Description.
-Features
-Requirements
-Installation Process
-Live link
-Technology used
-Licence
-Authors Info
+*Description.
+*Features
+*Requirements
+*Installation Process
+*Live link
+*Technology used
+*Licence
+*Authors Info

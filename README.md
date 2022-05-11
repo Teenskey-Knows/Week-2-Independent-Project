@@ -7,8 +7,9 @@
 * Requirements
 * Live link
 * Resources used
+* Bugs
 * Licence
-* Authors Info
+
 
 ### Description
 
@@ -31,7 +32,17 @@ The following are the basic requirement of accessing their websites:
 ### Live Link
 * [Quick Movers Business Website](https://thecodingobare.github.io/Week-2-Independent-Project/)
 
+### Bugs
+
+The website is not responsive at all.
+
 ### Resources Used
 
-1. Hyper Text MarkUp Language
-2. Cascading Style Sheet
+1. Hyper Text MarkUp Language- HTML
+2. Cascading Style Sheet- CSS
+
+### Lincence
+
+The resources are free to use by anyone who deems it helpful.
+
+

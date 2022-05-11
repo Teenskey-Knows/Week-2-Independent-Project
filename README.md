@@ -27,3 +27,6 @@ For anyone visiting their website, one will have the benefits of:
 The following are the basic requirement of accessing their websites:
 1. Internet connection
 2. Internet gadget for instance laptop or a smartphone.
+
+### Live Link
+* [Quick Movers Business Website](https://thecodingobare.github.io/Week-2-Independent-Project/)

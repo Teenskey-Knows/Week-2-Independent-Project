@@ -5,7 +5,6 @@
 * Description.
 * Features
 * Requirements
-* Installation Process
 * Live link
 * Technology used
 * Licence
@@ -22,3 +21,9 @@ For anyone visiting their website, one will have the benefits of:
 1. Viewing their services
 2. Contacting the personnel within the firm
 3. Having to see a review of their prior service delivery
+
+### Requirements
+
+The following are the basic requirement of accessing their websites:
+1. Internet connection
+2. Internet gadget for instance laptop or a smartphone.

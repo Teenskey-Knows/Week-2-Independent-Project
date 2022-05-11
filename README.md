@@ -10,3 +10,7 @@
 * Technology used
 * Licence
 * Authors Info
+
+### Description
+
+This is a professional website for the firm named Quick Movers who offer services to individual or corporations when they need to relocate to other areas or regions.
